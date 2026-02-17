@@ -1,130 +1,67 @@
 <div align="center">
 
-# 👋 Hi, I'm Tymofii Shchur
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
 
-**Backend Engineer** specializing in high-performance systems
+# Tymofii Shchur
+### Backend Engineer · Systems Thinker · LLM Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tymofii-shchur-b06b98303/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:tymofiischur@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=flat-square&logo=fiverr)](https://www.fiverr.com/s/993lXje)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tymofii-shchur)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tymofiischur@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashfromsky)
 
-```yaml
-role: Backend Engineer & Systems Engineer
-focus: Distributed Systems | API Development | Performance Optimization
-languages: [C#, Python, Go, C++]
-location: Remote | UTC+2
-status: Available for freelance
+</div>
+
+---
+
+I build backend systems with a focus on **correctness and internals** — not just making things work, but understanding why they work. I've implemented WAL, B-Tree indexing, idempotency semantics, and LLM pipelines from scratch, mostly out of curiosity.
+
+Currently focused on **Python**, **C#**, and **LLM engineering**.
+
+---
+
+## Projects
+
+**[YaraDB](https://github.com/illusiOxd/yaradb)** — Custom in-memory database engine  
+Built a NoSQL engine from scratch to study DBMS internals. Implements Write-Ahead Logging for crash recovery, dual indexing with Hash Index O(1) and B-Tree O(log n) for range queries.  
+`Python` `WAL` `B-Tree` `Data Structures`
+
+**[AcquireMock](https://github.com/illusiOxd/acquiremock)** — Financial payment gateway simulator  
+Full transaction lifecycle simulator with idempotency keys, HMAC-SHA256 signed webhooks, exponential backoff retry engine, and bcrypt card storage mirroring PCI-DSS requirements.  
+`Python` `FastAPI` `PostgreSQL` `Cryptography`
+
+**[Helix](https://github.com/ashfromsky)** — AI-powered API mocking platform  
+Smart mocking server with pluggable LLM providers (Groq, DeepSeek, Ollama), Redis semantic caching, and a chaos engineering module for resilience testing.  
+`Python` `FastAPI` `Redis` `LLMs`
+
+**[Gitra](https://github.com/ashfromsky)** — Local AI code explorer  
+RAG-powered tool for natural-language Q&A over local Git repositories using Google Gemini API.  
+`Python` `RAG` `Gemini API` `Vector Search`
+
+---
+
+## Stack
+
+```
+Languages    Python · C# · Go · C++ · TypeScript
+Backend      FastAPI · Django · .NET · AsyncIO
+AI / LLM     OpenAI API · Anthropic · RAG · Prompt Engineering
+Databases    PostgreSQL · MongoDB · Redis · SQLite · Vector DBs
+DevOps       Docker · GitHub Actions · Linux · Azure
 ```
 
-</div>
-
 ---
 
-## 🎯 About Me
+## CS Foundations
 
-Backend developer passionate about building scalable systems that handle real traffic. I focus on clean architecture, performance optimization, and delivering solutions that work in production.
-
-**Core Skills:** API Design • Async Programming • Database Optimization • Microservices • System Architecture
-
----
-
-## 🚀 Featured Projects
-
-### Velora — Social Media Backend
-**Production-ready social platform** serving 500+ users with 1000+ req/sec
-
-`Python` `FastAPI` `MongoDB` `Redis` `Docker`
-
-- RESTful API with JWT/OAuth2 authentication
-- Async architecture with optimistic concurrency control
-- Real-time features with WebSocket support
-- 99.9% uptime with automated testing
-
-### [AcquireMock](https://github.com/illusiOxd/acquiremock) — Payment Gateway
-**Mock payment system** for testing payment integrations
-
-`Python` `FastAPI` `PostgreSQL` `Docker`
-
-- Complete payment flow simulation with OTP verification
-- HMAC-signed webhooks with automatic retry logic
-- Multi-language UI with dark mode support
-- Card storage and transaction history
-
-### [YaraDB](https://github.com/illusiOxd/yaradb) — In-Memory Database
-**Custom database engine** with optimistic concurrency control
-
-`Python` `Docker`
-
-- Implements OCC for concurrent transactions
-- SHA-256 integrity verification
-- Strategy pattern for extensible operations
-- 99.99% data integrity in tests
-
-### [SRC App](https://github.com/illusiOxd/SRCapp) — System Monitor
-**Real-time system monitoring** with sub-100ms refresh rates
-
-`C#` `.NET` `WPF`
-
-- Multi-threaded CPU/RAM/GPU monitoring
-- WMI integration for hardware metrics
-- MVVM architecture with clean separation
-- Live charts and performance graphs
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python • C# • Go • C++ • TypeScript
-
-**Backend:** FastAPI • Django (DRF) • .NET • Flask • AsyncIO
-
-**AI & LLM:** OpenAI API • Anthropic (Claude) • Prompt Engineering • RAG
-
-**Databases:** PostgreSQL (NeonDB, Supabase) • MongoDB • Redis • SQLite • MS SQL • Vector DBs
-
-**ORM & ODM:** SQLAlchemy • Django ORM • Entity Framework Core • SQLModel • Motor
-
-**DevOps & Cloud:** Docker • CI/CD (GitHub Actions) • Render • Railway • Azure • Heroku
-
-**Tools:** Git • Linux • Postman • Telegram API
-
-**Testing:** Pytest • Unittest
-
-**Frontend:** React • Tailwind CSS • Jinja2
-
-
-</div>
-
----
-
-## 💼 What I Do
-
-**Backend Development** — Building scalable APIs and microservices that handle real-world traffic
-
-**System Design** — Architecting distributed systems with focus on performance and reliability
-
-**Database Optimization** — Query optimization, indexing strategies, and data modeling
-
-**DevOps Integration** — Docker containerization, CI/CD pipelines, and deployment automation
-
----
-
-## 📬 Get In Touch
-
-**Open for:**
-- Freelance backend development projects
-- System architecture consulting
-- Performance optimization work
-- Interesting technical challenges
-
-**Best way to reach me:** [tymofiischur@gmail.com](mailto:tymofiischur@gmail.com)
+Things I've studied beyond tutorials:  
+Database internals (B-Trees, WAL, indexing) · Distributed systems patterns · Concurrency models · Algorithm design · System design
 
 ---
 
 <div align="center">
 
-*Building systems that scale, code that lasts, solutions that work.*
+![Visitors](https://komarev.com/ghpvc/?username=illusiOxd&color=555555&style=flat-square&label=profile+views)
 
-![Visitors](https://komarev.com/ghpvc/?username=illusiOxd&color=6366f1&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
 </div>
