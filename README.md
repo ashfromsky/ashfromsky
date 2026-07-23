@@ -58,7 +58,7 @@
 └────────────────────────────────────────────────────────────────┘
 ```
 
-**[Smarket](https://github.com/ashfromsky)** — microservices grocery price-comparison platform `[technical lead]`
+**[Smarket](https://github.com/ItStepDiplomaTeam1/smarket)** — microservices grocery price-comparison platform `[technical lead]`
 Production deployment on Hetzner. Auth, cart, `products_etl`, gateway, and a `zephyros_agent`
 AI chat service. Google OAuth2, Redis, three-tier LLM routing (Gemini → Groq → Cerebras).
 `Python` `Go` `FastAPI` `PostgreSQL` `Redis` `Docker` `Microservices`
