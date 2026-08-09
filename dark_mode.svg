@@ -73,7 +73,7 @@
 
     <tspan x="375" y="536" class="key">- GitHub Stats </tspan><tspan class="cc">---------------------------------------------------</tspan>
     <tspan x="375" y="556" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">102</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">106</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">161</tspan>
-    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,352</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">17</tspan>
-    <tspan x="375" y="596" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,386,598</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">1,612,105++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">225,507--</tspan><tspan class="text"> )</tspan>
+    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,354</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">17</tspan>
+    <tspan x="375" y="596" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,386,915</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">1,612,750++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">225,835--</tspan><tspan class="text"> )</tspan>
   </text>
 </svg>
