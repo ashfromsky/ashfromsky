@@ -1,0 +1,18 @@
+{
+  "username": "ashfromsky",
+  "name": "Tymofii Shchur",
+  "title": "Backend & AI Systems Engineer",
+  "location": "Kyiv, Ukraine",
+  "email": "tymofiischur@gmail.com",
+  "linkedin": "tymofii-shchur",
+  "github": "ashfromsky",
+  "os": ["Windows 11", "Linux"],
+  "ide": ["PyCharm", "Cursor", "OpenCode"],
+  "languages": ["Python", "C#/.NET", "Go", "C++", "SQL"],
+  "backend": ["FastAPI", "ASP.NET Core", "Django REST"],
+  "data": ["PostgreSQL", "Redis", "MongoDB", "RabbitMQ"],
+  "ai": ["LLM Agents", "RAG", "Tool Calling"],
+  "infra": ["Docker", "GitHub Actions", "Linux", "Hetzner"],
+  "interests": ["Alpine Skiing", "Music", "PC Hardware"],
+  "birth_date": null
+}

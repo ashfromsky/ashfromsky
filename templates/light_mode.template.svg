@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'SFMono-Regular', 'Liberation Mono', Menlo, monospace" width="1050px" height="530px" font-size="15px">
+  <style>
+    .bg { fill: #f6f8fa; }
+    .text { fill: #24292f; }
+    .key { fill: #953800; }
+    .value { fill: #0a3069; }
+    .cc { fill: #c2cfde; }
+    .add { fill: #1a7f37; }
+    .del { fill: #cf222e; }
+    text, tspan { white-space: pre; }
+  </style>
+
+  <rect width="1050px" height="530px" class="bg" rx="15" />
+
+  <!-- ASCII Portrait Column (Left) -->
+  <text x="20" y="32" class="text" font-size="14px">
+    <tspan x="20" y="32" id="ascii_line_0">                                        </tspan>
+    <tspan x="20" y="52" id="ascii_line_1">                                        </tspan>
+    <tspan x="20" y="72" id="ascii_line_2">                                        </tspan>
+    <tspan x="20" y="92" id="ascii_line_3">                                        </tspan>
+    <tspan x="20" y="112" id="ascii_line_4">                                        </tspan>
+    <tspan x="20" y="132" id="ascii_line_5">                                        </tspan>
+    <tspan x="20" y="152" id="ascii_line_6">                                        </tspan>
+    <tspan x="20" y="172" id="ascii_line_7">                                        </tspan>
+    <tspan x="20" y="192" id="ascii_line_8">                                        </tspan>
+    <tspan x="20" y="212" id="ascii_line_9">                                        </tspan>
+    <tspan x="20" y="232" id="ascii_line_10">                                        </tspan>
+    <tspan x="20" y="252" id="ascii_line_11">                                        </tspan>
+    <tspan x="20" y="272" id="ascii_line_12">                                        </tspan>
+    <tspan x="20" y="292" id="ascii_line_13">                                        </tspan>
+    <tspan x="20" y="312" id="ascii_line_14">                                        </tspan>
+    <tspan x="20" y="332" id="ascii_line_15">                                        </tspan>
+    <tspan x="20" y="352" id="ascii_line_16">                                        </tspan>
+    <tspan x="20" y="372" id="ascii_line_17">                                        </tspan>
+    <tspan x="20" y="392" id="ascii_line_18">                                        </tspan>
+    <tspan x="20" y="412" id="ascii_line_19">                                        </tspan>
+    <tspan x="20" y="432" id="ascii_line_20">                                        </tspan>
+    <tspan x="20" y="452" id="ascii_line_21">                                        </tspan>
+    <tspan x="20" y="472" id="ascii_line_22">                                        </tspan>
+    <tspan x="20" y="492" id="ascii_line_23">                                        </tspan>
+    <tspan x="20" y="512" id="ascii_line_24">                                        </tspan>
+  </text>
+
+  <!-- Information Terminal Column (Right) -->
+  <text x="410" y="32" class="text">
+    <tspan x="410" y="32" class="key">ashfromsky@github</tspan><tspan class="cc"> ---------------------------------------</tspan>
+
+    <tspan x="410" y="68" class="key">. OS: </tspan><tspan class="cc">......................... </tspan><tspan id="os_val" class="value">Windows 11, Linux</tspan>
+    <tspan x="410" y="88" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">0 years, 0 months</tspan>
+    <tspan x="410" y="108" class="key">. Host: </tspan><tspan class="cc">....................... </tspan><tspan id="host_val" class="value">Kyiv, Ukraine</tspan>
+    <tspan x="410" y="128" class="key">. Kernel: </tspan><tspan class="cc">..................... </tspan><tspan id="kernel_val" class="value">Backend &amp; AI Systems Engineer</tspan>
+    <tspan x="410" y="148" class="key">. IDE: </tspan><tspan class="cc">........................ </tspan><tspan id="ide_val" class="value">PyCharm, Cursor, OpenCode</tspan>
+
+    <tspan x="410" y="184" class="key">. Stack.Languages: </tspan><tspan class="cc">............ </tspan><tspan id="stack_lang_val" class="value">Python, C#/.NET, Go, C++, SQL</tspan>
+    <tspan x="410" y="204" class="key">. Stack.Backend: </tspan><tspan class="cc">.............. </tspan><tspan id="stack_backend_val" class="value">FastAPI, ASP.NET Core, Django REST</tspan>
+    <tspan x="410" y="224" class="key">. Stack.Data: </tspan><tspan class="cc">................. </tspan><tspan id="stack_data_val" class="value">PostgreSQL, Redis, MongoDB, RabbitMQ</tspan>
+    <tspan x="410" y="244" class="key">. Stack.AI: </tspan><tspan class="cc">................... </tspan><tspan id="stack_ai_val" class="value">LLM Agents, RAG, Tool Calling</tspan>
+    <tspan x="410" y="264" class="key">. Stack.Infra: </tspan><tspan class="cc">................ </tspan><tspan id="stack_infra_val" class="value">Docker, GitHub Actions, Linux, Hetzner</tspan>
+
+    <tspan x="410" y="300" class="key">. Interests: </tspan><tspan class="cc">.................. </tspan><tspan id="interests_val" class="value">Alpine Skiing, Music, PC Hardware</tspan>
+
+    <tspan x="410" y="336" class="key">- Contact </tspan><tspan class="cc">-----------------------------------------------</tspan>
+    <tspan x="410" y="356" class="key">. Email: </tspan><tspan class="cc">...................... </tspan><tspan id="email_val" class="value">tymofiischur@gmail.com</tspan>
+    <tspan x="410" y="376" class="key">. LinkedIn: </tspan><tspan class="cc">................... </tspan><tspan id="linkedin_val" class="value">tymofii-shchur</tspan>
+    <tspan x="410" y="396" class="key">. GitHub: </tspan><tspan class="cc">..................... </tspan><tspan id="github_val" class="value">ashfromsky</tspan>
+
+    <tspan x="410" y="432" class="key">- GitHub Stats </tspan><tspan class="cc">-------------------------------------------</tspan>
+    <tspan x="410" y="452" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">........ </tspan><tspan id="repo_data" class="value">0</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">0</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">........ </tspan><tspan id="star_data" class="value">0</tspan>
+    <tspan x="410" y="472" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">................. </tspan><tspan id="commit_data" class="value">0</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">......... </tspan><tspan id="follower_data" class="value">0</tspan>
+    <tspan x="410" y="492" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">... </tspan><tspan id="loc_data" class="value">0</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">0++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">0--</tspan><tspan class="text"> )</tspan>
+  </text>
+</svg>

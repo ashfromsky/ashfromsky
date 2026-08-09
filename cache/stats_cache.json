@@ -1,0 +1,100 @@
+{
+  "repositories": {
+    "ashfromsky/acquiremock": {
+      "head_oid": "rest_head_2026-03-26T19:22:29Z",
+      "my_commits": 36,
+      "additions": 900,
+      "deletions": 180
+    },
+    "ashfromsky/ashfromsky": {
+      "head_oid": "rest_head_2026-07-23T10:10:57Z",
+      "my_commits": 4,
+      "additions": 100,
+      "deletions": 20
+    },
+    "ashfromsky/CSharpSystemResourcesControl": {
+      "head_oid": "rest_head_2024-12-19T22:39:43Z",
+      "my_commits": 16,
+      "additions": 400,
+      "deletions": 80
+    },
+    "ashfromsky/DogsWebsiteExam": {
+      "head_oid": "rest_head_2024-11-07T22:12:34Z",
+      "my_commits": 1,
+      "additions": 25,
+      "deletions": 5
+    },
+    "ashfromsky/flappyvova": {
+      "head_oid": "rest_head_2025-07-29T22:38:28Z",
+      "my_commits": 1,
+      "additions": 25,
+      "deletions": 5
+    },
+    "ashfromsky/gitra": {
+      "head_oid": "rest_head_2026-01-23T13:48:30Z",
+      "my_commits": 35,
+      "additions": 875,
+      "deletions": 175
+    },
+    "ashfromsky/Hackintosh-HP-Elitebook820G4-EFI": {
+      "head_oid": "rest_head_2024-12-27T21:37:28Z",
+      "my_commits": 1,
+      "additions": 25,
+      "deletions": 5
+    },
+    "ashfromsky/helix": {
+      "head_oid": "rest_head_2025-12-19T18:06:15Z",
+      "my_commits": 34,
+      "additions": 850,
+      "deletions": 170
+    },
+    "ashfromsky/helix-page": {
+      "head_oid": "rest_head_2025-12-12T16:36:46Z",
+      "my_commits": 4,
+      "additions": 100,
+      "deletions": 20
+    },
+    "ashfromsky/PageAboutMeHW": {
+      "head_oid": "rest_head_2024-10-13T16:56:26Z",
+      "my_commits": 1,
+      "additions": 25,
+      "deletions": 5
+    },
+    "ashfromsky/sentinel-cli": {
+      "head_oid": "rest_head_2026-05-09T11:56:38Z",
+      "my_commits": 19,
+      "additions": 475,
+      "deletions": 95
+    },
+    "ashfromsky/SRCapp": {
+      "head_oid": "rest_head_2024-12-26T21:02:05Z",
+      "my_commits": 8,
+      "additions": 200,
+      "deletions": 40
+    },
+    "ashfromsky/travel-planner-crewred": {
+      "head_oid": "rest_head_2026-06-18T07:18:47Z",
+      "my_commits": 27,
+      "additions": 675,
+      "deletions": 135
+    },
+    "ashfromsky/WeatherFastAPI": {
+      "head_oid": "rest_head_2025-08-25T13:21:22Z",
+      "my_commits": 11,
+      "additions": 275,
+      "deletions": 55
+    },
+    "ashfromsky/yaradb": {
+      "head_oid": "rest_head_2025-11-28T10:35:06Z",
+      "my_commits": 64,
+      "additions": 1600,
+      "deletions": 320
+    },
+    "ashfromsky/yaradb-client-py": {
+      "head_oid": "rest_head_2025-11-23T22:14:35Z",
+      "my_commits": 7,
+      "additions": 175,
+      "deletions": 35
+    }
+  }
+}
