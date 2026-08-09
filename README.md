@@ -10,3 +10,9 @@
     </picture>
   </a>
 </div>
+
+<!-- REPO_METRICS_START -->
+<!-- AcquireMock: ★ 83 ⑂ 9 -->
+<!-- YaraDB: ★ 34 ⑂ 0 -->
+<!-- Helix: ★ 25 ⑂ 2 -->
+<!-- REPO_METRICS_END -->

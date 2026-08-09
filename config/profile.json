@@ -16,10 +16,39 @@
   "interests": ["Alpine Skiing", "Music", "PC Hardware"],
   "birth_date": "2008-05-26",
   "projects": [
-    {"key": "Stack.Project(1)", "val": "Smarket — Distributed Grocery Platform"},
-    {"key": "Stack.Project(2)", "val": "Sentinel — Multi-Agent Code Security"},
-    {"key": "Stack.Project(3)", "val": "AcquireMock — Payment Gateway Simulator"},
-    {"key": "Stack.Project(4)", "val": "YaraDB — Custom In-Memory Database"},
-    {"key": "Stack.Project(5)", "val": "Helix — AI-Powered API Mocking"}
+    {
+      "key": "Projects[0]",
+      "name": "AcquireMock",
+      "repo": "ashfromsky/acquiremock",
+      "desc": "Payment Gateway Simulator",
+      "stars": 83,
+      "forks": 9
+    },
+    {
+      "key": "Projects[1]",
+      "name": "Smarket",
+      "desc": "Distributed Grocery Platform"
+    },
+    {
+      "key": "Projects[2]",
+      "name": "Sentinel",
+      "desc": "Multi-Agent Code Security"
+    },
+    {
+      "key": "Projects[3]",
+      "name": "YaraDB",
+      "repo": "ashfromsky/yaradb",
+      "desc": "In-Memory Document Database",
+      "stars": 34,
+      "forks": 0
+    },
+    {
+      "key": "Projects[4]",
+      "name": "Helix",
+      "repo": "ashfromsky/helix",
+      "desc": "AI-Powered API Mocking",
+      "stars": 25,
+      "forks": 2
+    }
   ]
 }

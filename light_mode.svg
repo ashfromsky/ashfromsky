@@ -58,11 +58,11 @@
     <tspan x="375" y="240" class="key">. Stack.AI: </tspan><tspan class="cc">................... </tspan><tspan id="stack_ai_val" class="value">LLM Agents, RAG, Tool Calling</tspan>
     <tspan x="375" y="260" class="key">. Stack.Infra: </tspan><tspan class="cc">................ </tspan><tspan id="stack_infra_val" class="value">Docker, GitHub Actions, Linux, Hetzner</tspan>
 
-    <tspan x="375" y="294" class="key">. Stack.Project(1): </tspan><tspan class="cc">........... </tspan><tspan id="proj1_val" class="value">Smarket — Distributed Grocery Platform</tspan>
-    <tspan x="375" y="314" class="key">. Stack.Project(2): </tspan><tspan class="cc">........... </tspan><tspan id="proj2_val" class="value">Sentinel — Multi-Agent Code Security</tspan>
-    <tspan x="375" y="334" class="key">. Stack.Project(3): </tspan><tspan class="cc">........... </tspan><tspan id="proj3_val" class="value">AcquireMock — Payment Gateway Simulator</tspan>
-    <tspan x="375" y="354" class="key">. Stack.Project(4): </tspan><tspan class="cc">........... </tspan><tspan id="proj4_val" class="value">YaraDB — Custom In-Memory Database</tspan>
-    <tspan x="375" y="374" class="key">. Stack.Project(5): </tspan><tspan class="cc">........... </tspan><tspan id="proj5_val" class="value">Helix — AI-Powered API Mocking</tspan>
+    <tspan x="375" y="294" class="key">. Projects[0]: </tspan><tspan class="cc">................ </tspan><tspan id="proj1_val" class="value">AcquireMock — Payment Gateway Simulator  ★ 83  ⑂ 9</tspan>
+    <tspan x="375" y="314" class="key">. Projects[1]: </tspan><tspan class="cc">................ </tspan><tspan id="proj2_val" class="value">Smarket — Distributed Grocery Platform</tspan>
+    <tspan x="375" y="334" class="key">. Projects[2]: </tspan><tspan class="cc">................ </tspan><tspan id="proj3_val" class="value">Sentinel — Multi-Agent Code Security</tspan>
+    <tspan x="375" y="354" class="key">. Projects[3]: </tspan><tspan class="cc">................ </tspan><tspan id="proj4_val" class="value">YaraDB — In-Memory Document Database     ★ 34  ⑂ 0</tspan>
+    <tspan x="375" y="374" class="key">. Projects[4]: </tspan><tspan class="cc">................ </tspan><tspan id="proj5_val" class="value">Helix — AI-Powered API Mocking           ★ 25  ⑂ 2</tspan>
 
     <tspan x="375" y="408" class="key">. Interests: </tspan><tspan class="cc">.................. </tspan><tspan id="interests_val" class="value">Alpine Skiing, Music, PC Hardware</tspan>
 
@@ -73,7 +73,7 @@
 
     <tspan x="375" y="536" class="key">- GitHub Stats </tspan><tspan class="cc">---------------------------------------------------</tspan>
     <tspan x="375" y="556" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">102</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">106</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">161</tspan>
-    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,354</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">17</tspan>
-    <tspan x="375" y="596" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,386,915</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">1,612,750++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">225,835--</tspan><tspan class="text"> )</tspan>
+    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,356</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">17</tspan>
+    <tspan x="375" y="596" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,387,018</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">1,613,164++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">226,146--</tspan><tspan class="text"> )</tspan>
   </text>
 </svg>

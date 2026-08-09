@@ -87,7 +87,20 @@ class SVGRenderer:
 
         if "projects" in profile_config:
             for idx, proj in enumerate(profile_config["projects"], start=1):
-                set_text(f"proj{idx}_val", proj["val"])
+                name = proj.get("name", "")
+                desc = proj.get("desc", "")
+                base = f"{name} — {desc}" if desc else proj.get("val", "")
+                
+                if "stars" in proj and "forks" in proj and proj["stars"] is not None:
+                    stars = proj["stars"]
+                    forks = proj["forks"]
+                    metrics_str = f"★ {stars:<3} ⑂ {forks}"
+                    pad_len = max(2, 41 - len(base))
+                    val_str = f"{base}{' ' * pad_len}{metrics_str}"
+                else:
+                    val_str = base
+                
+                set_text(f"proj{idx}_val", val_str)
 
         if "email" in profile_config:
             set_text("email_val", profile_config["email"])
