@@ -113,7 +113,7 @@ class SVGRenderer:
         # Uptime / Account Age
         uptime_str = str(stats.get("uptime", "Unknown"))
         set_text("account_age", uptime_str)
-        set_text("account_age_dots", adjust_dots(25, len(uptime_str)))
+        set_text("account_age_dots", "." * 21 + " ")
 
         # Repos & Contributed
         repos_num = stats.get("repos", 0)
