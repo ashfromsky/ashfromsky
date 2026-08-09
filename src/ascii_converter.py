@@ -6,21 +6,18 @@ Converts input photograph into detailed monospace ASCII art for dark and light t
 import html
 from pathlib import Path
 from typing import Tuple, List
-from PIL import Image, ImageEnhance, ImageOps
 
 # ASCII character ramps sorted by visually perceived density
-# Dark theme (on dark background): spaces for dark/background, denser chars for bright features
 DARK_CHARS = "  ..:--==++**##%%@@"
-
-# Light theme (on light background): spaces for light/background, denser chars for dark features
 LIGHT_CHARS = "  ..:--==++**##%%@@"
 
 
-def crop_upper_body(img: Image.Image) -> Image.Image:
+def crop_upper_body(img):
     """
     Crops the image around the upper body / head & torso area.
     Focuses on the person and removes surrounding margins.
     """
+    from PIL import Image
     width, height = img.size
     left = int(width * 0.1)
     top = int(height * 0.05)
@@ -29,11 +26,12 @@ def crop_upper_body(img: Image.Image) -> Image.Image:
     return img.crop((left, top, right, bottom))
 
 
-def suppress_background(img: Image.Image, dark_theme: bool = True) -> Image.Image:
+def suppress_background(img, dark_theme: bool = True):
     """
     Suppresses noisy background (like snowy trees) by focusing on central portrait elements
     and applying a soft center radial mask.
     """
+    from PIL import Image
     img = img.convert("RGB")
     width, height = img.size
     
@@ -74,6 +72,7 @@ def image_to_ascii(
     if not image_path.exists():
         raise FileNotFoundError(f"Profile photograph not found at {image_path}")
 
+    from PIL import Image, ImageEnhance, ImageOps
     with Image.open(image_path) as orig_img:
         cropped = crop_upper_body(orig_img)
         suppressed = suppress_background(cropped, dark_theme=dark_theme)
