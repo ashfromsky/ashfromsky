@@ -6,13 +6,20 @@
   "email": "tymofiischur@gmail.com",
   "linkedin": "tymofii-shchur",
   "github": "ashfromsky",
-  "os": ["Windows 11", "Linux"],
-  "ide": ["PyCharm", "Cursor", "OpenCode"],
+  "os": ["Windows 11", "Arch Linux (i3)"],
+  "ide": ["PyCharm", "Antigravity", "Codex", "OpenCode"],
   "languages": ["Python", "C#/.NET", "Go", "C++", "SQL"],
   "backend": ["FastAPI", "ASP.NET Core", "Django REST"],
   "data": ["PostgreSQL", "Redis", "MongoDB", "RabbitMQ"],
   "ai": ["LLM Agents", "RAG", "Tool Calling"],
   "infra": ["Docker", "GitHub Actions", "Linux", "Hetzner"],
   "interests": ["Alpine Skiing", "Music", "PC Hardware"],
-  "birth_date": null
+  "birth_date": "2008-05-26",
+  "projects": [
+    {"key": "Stack.Project(1)", "val": "Smarket — Distributed Grocery Platform"},
+    {"key": "Stack.Project(2)", "val": "Sentinel — Multi-Agent Code Security"},
+    {"key": "Stack.Project(3)", "val": "AcquireMock — Payment Gateway Simulator"},
+    {"key": "Stack.Project(4)", "val": "YaraDB — Custom In-Memory Database"},
+    {"key": "Stack.Project(5)", "val": "Helix — AI-Powered API Mocking"}
+  ]
 }

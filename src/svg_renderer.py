@@ -85,6 +85,10 @@ class SVGRenderer:
         if "interests" in profile_config:
             set_text("interests_val", ", ".join(profile_config["interests"]))
 
+        if "projects" in profile_config:
+            for idx, proj in enumerate(profile_config["projects"], start=1):
+                set_text(f"proj{idx}_val", proj["val"])
+
         if "email" in profile_config:
             set_text("email_val", profile_config["email"])
         if "linkedin" in profile_config:
