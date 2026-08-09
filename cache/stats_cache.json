@@ -1,111 +1,15 @@
 {
   "repositories": {
-    "ashfromsky/DogsWebsiteExam": {
-      "head_oid": "50fdd83e07cf9ed9fce97949f2792607b36a7a7c",
-      "my_commits": 1,
-      "additions": 919,
-      "deletions": 0
-    },
-    "ashfromsky/PageAboutMeHW": {
-      "head_oid": "952482e078e69e6040d509b1d264eefa1059f95d",
-      "my_commits": 1,
-      "additions": 210,
-      "deletions": 0
-    },
-    "ashfromsky/SRCapp": {
-      "head_oid": "d01fee5c3ce801a36b56ad70a448952b35a08391",
-      "my_commits": 13,
-      "additions": 1891,
-      "deletions": 468
-    },
-    "ashfromsky/Hackintosh-HP-Elitebook820G4-EFI": {
-      "head_oid": "9e3fd3bf92069ae9246bbffea741e3ea8f9840c6",
-      "my_commits": 3,
-      "additions": 36613,
-      "deletions": 1
-    },
-    "ashfromsky/CSharpSystemResourcesControl": {
-      "head_oid": "98713812f9c0b62fcb3cb2bc33744bb7884c2534",
-      "my_commits": 21,
-      "additions": 2594,
-      "deletions": 1535
-    },
-    "ashfromsky/ashfromsky": {
-      "head_oid": "c7d23a615a17f402971e827fb6923442efa194d1",
-      "my_commits": 39,
-      "additions": 5641,
-      "deletions": 2574
-    },
-    "ashfromsky/flappyvova": {
-      "head_oid": "6da2d9844a955b70fbd412b467334e279584c5f6",
-      "my_commits": 1,
-      "additions": 590,
-      "deletions": 0
-    },
-    "ashfromsky/helix-page": {
-      "head_oid": "93c95219c86954877c408f4530fccac9d49591e1",
-      "my_commits": 4,
-      "additions": 1349,
-      "deletions": 616
-    },
-    "ashfromsky/WeatherFastAPI": {
-      "head_oid": "880d7783520fe1225137e6548600327fd87233eb",
-      "my_commits": 14,
-      "additions": 873,
-      "deletions": 134
-    },
-    "ashfromsky/yaradb-client-py": {
-      "head_oid": "19ac68de3b93d29a4192ff29c02f1709499d7221",
-      "my_commits": 8,
-      "additions": 1307,
-      "deletions": 202
-    },
-    "ashfromsky/yaradb": {
-      "head_oid": "0e233caa71e827ef90924ddb38d65c4a1d031ac9",
-      "my_commits": 94,
-      "additions": 7973,
-      "deletions": 1596
-    },
-    "ashfromsky/helix": {
-      "head_oid": "581dfd8d8351acf606a423a27cf1d2233f301944",
-      "my_commits": 34,
-      "additions": 9166,
-      "deletions": 2468
-    },
-    "ashfromsky/acquiremock": {
-      "head_oid": "26f47bc68f7b6079fe424c21982533f018320c4c",
-      "my_commits": 37,
-      "additions": 9796,
-      "deletions": 2926
-    },
-    "ashfromsky/gitra": {
-      "head_oid": "a0f8c8bcefccb6e486648facd846423468e4dd2b",
-      "my_commits": 35,
-      "additions": 9759,
-      "deletions": 3967
-    },
-    "ashfromsky/sentinel-cli": {
-      "head_oid": "db4d0ebe5e3598440a555522155465f2c44ff63f",
-      "my_commits": 19,
-      "additions": 5306,
-      "deletions": 1784
-    },
-    "ashfromsky/travel-planner-crewred": {
-      "head_oid": "53c53f90254806017833d103589355a69bc5ac9f",
-      "my_commits": 27,
-      "additions": 4374,
-      "deletions": 218
-    },
     "ashfromsky/MeetingBotTelegramPy": {
       "head_oid": "e0dd873fe6e5ac53a11f8c0aa65c988159695e32",
       "my_commits": 3,
       "additions": 358,
       "deletions": 46
     },
-    "ashfromsky/ChatGPTBotTG": {
-      "head_oid": "50bbceb815c3df11f9b1059ffefe9bc49b150a84",
-      "my_commits": 1,
-      "additions": 131,
+    "ashfromsky/FinalChatManager": {
+      "head_oid": "5bdc8b60b22a97a6fca40d607e11d7982782127f",
+      "my_commits": 2,
+      "additions": 277,
       "deletions": 0
     },
     "ashfromsky/ChatManagerPy": {
@@ -114,28 +18,10 @@
       "additions": 250,
       "deletions": 18
     },
-    "ashfromsky/CaptchaTelegramBot": {
-      "head_oid": "be0252974d564b16f1cdd88d0642d5d3726fd85d",
+    "ashfromsky/ChatGPTBotTG": {
+      "head_oid": "50bbceb815c3df11f9b1059ffefe9bc49b150a84",
       "my_commits": 1,
-      "additions": 49,
-      "deletions": 0
-    },
-    "ashfromsky/FinalChatManager": {
-      "head_oid": "5bdc8b60b22a97a6fca40d607e11d7982782127f",
-      "my_commits": 2,
-      "additions": 277,
-      "deletions": 0
-    },
-    "ashfromsky/BotOrderPy": {
-      "head_oid": "6ef67e9a6f5acb236ab2998c7d60f1b7f972e0c7",
-      "my_commits": 5,
-      "additions": 524,
-      "deletions": 80
-    },
-    "ashfromsky/ChatGPTChatBotPY": {
-      "head_oid": "06ece2c96f3673436b10714a472efccae6d70385",
-      "my_commits": 2,
-      "additions": 32,
+      "additions": 131,
       "deletions": 0
     },
     "ashfromsky/ChatManagerBotPy": {
@@ -144,10 +30,34 @@
       "additions": 225,
       "deletions": 27
     },
+    "ashfromsky/ChatGPTChatBotPY": {
+      "head_oid": "06ece2c96f3673436b10714a472efccae6d70385",
+      "my_commits": 2,
+      "additions": 32,
+      "deletions": 0
+    },
+    "ashfromsky/CaptchaTelegramBot": {
+      "head_oid": "be0252974d564b16f1cdd88d0642d5d3726fd85d",
+      "my_commits": 1,
+      "additions": 49,
+      "deletions": 0
+    },
+    "ashfromsky/BotOrderPy": {
+      "head_oid": "6ef67e9a6f5acb236ab2998c7d60f1b7f972e0c7",
+      "my_commits": 5,
+      "additions": 524,
+      "deletions": 80
+    },
     "ashfromsky/PostgreSQLTestPy": {
       "head_oid": "88afc14c68243c6066b6f998337d1687cfd4fee5",
       "my_commits": 1,
       "additions": 78,
+      "deletions": 0
+    },
+    "ashfromsky/Practice_06_05": {
+      "head_oid": "bb26cc5e056cbe79f4907aac5b06406b54a7073d",
+      "my_commits": 1,
+      "additions": 5786,
       "deletions": 0
     },
     "ashfromsky/BotSQLtest": {
@@ -162,12 +72,6 @@
       "additions": 5787,
       "deletions": 0
     },
-    "ashfromsky/Practice_06_05": {
-      "head_oid": "bb26cc5e056cbe79f4907aac5b06406b54a7073d",
-      "my_commits": 1,
-      "additions": 5786,
-      "deletions": 0
-    },
     "ashfromsky/FinanceBot": {
       "head_oid": "69941fbb0cc862d91a63af79777abccb8f0c0cb3",
       "my_commits": 2,
@@ -178,6 +82,12 @@
       "head_oid": "fa6be9c1d439eaf389594ba6f2505dd7cfbab49a",
       "my_commits": 1,
       "additions": 5814,
+      "deletions": 0
+    },
+    "ashfromsky/Prototype_Pattern": {
+      "head_oid": "252633e4719e881f3715b1352b908b995e304f98",
+      "my_commits": 1,
+      "additions": 5725,
       "deletions": 0
     },
     "ashfromsky/SpamBotPy": {
@@ -192,34 +102,10 @@
       "additions": 7318,
       "deletions": 0
     },
-    "ashfromsky/Prototype_Pattern": {
-      "head_oid": "252633e4719e881f3715b1352b908b995e304f98",
-      "my_commits": 1,
-      "additions": 5725,
-      "deletions": 0
-    },
     "ashfromsky/SiteSQLTest": {
       "head_oid": "94636f66314a879b70c458f34fb9f8a8aec23e26",
       "my_commits": 1,
       "additions": 170,
-      "deletions": 0
-    },
-    "ashfromsky/MVCTechnology": {
-      "head_oid": "6cb1ad7ab9e05b838c4108de23a7180b5606d2d0",
-      "my_commits": 1,
-      "additions": 5821,
-      "deletions": 0
-    },
-    "ashfromsky/PracticeCommand": {
-      "head_oid": "4f5b62297cdc970155a75041df1fa1c2b10f5061",
-      "my_commits": 1,
-      "additions": 5807,
-      "deletions": 0
-    },
-    "ashfromsky/CommandPattern": {
-      "head_oid": "e08b66a04c610d4549f24417e2171fea323f9c9e",
-      "my_commits": 1,
-      "additions": 5784,
       "deletions": 0
     },
     "ashfromsky/Adapter_Pattern": {
@@ -228,11 +114,23 @@
       "additions": 6634,
       "deletions": 0
     },
+    "ashfromsky/CommandPattern": {
+      "head_oid": "e08b66a04c610d4549f24417e2171fea323f9c9e",
+      "my_commits": 1,
+      "additions": 5784,
+      "deletions": 0
+    },
     "ashfromsky/SitePracticeCrypto": {
       "head_oid": "632eaaea4d6180e188dba702a82efed54ef06105",
       "my_commits": 2,
       "additions": 443,
       "deletions": 10
+    },
+    "ashfromsky/PracticeCommand": {
+      "head_oid": "4f5b62297cdc970155a75041df1fa1c2b10f5061",
+      "my_commits": 1,
+      "additions": 5807,
+      "deletions": 0
     },
     "ashfromsky/SiteReactPy": {
       "head_oid": "33240317f357bf5d1796b60d4acc882ae9bfe56e",
@@ -240,22 +138,22 @@
       "additions": 5181,
       "deletions": 0
     },
-    "ashfromsky/CurrentSCoinsBot": {
-      "head_oid": "c44ef83069220261eb3a75878c2b2d211cd4165d",
+    "ashfromsky/MVCTechnology": {
+      "head_oid": "6cb1ad7ab9e05b838c4108de23a7180b5606d2d0",
       "my_commits": 1,
-      "additions": 900,
+      "additions": 5821,
       "deletions": 0
-    },
-    "ashfromsky/MessengerAppFrontend": {
-      "head_oid": "d141c360c4ef2ed8df624475dc743b66bf94ef96",
-      "my_commits": 2,
-      "additions": 4755,
-      "deletions": 12
     },
     "ashfromsky/ReactMessengerBackend": {
       "head_oid": "ee587eb233c9cb603c348deeaec714e3dd301ce3",
       "my_commits": 1,
       "additions": 8,
+      "deletions": 0
+    },
+    "ashfromsky/CurrentSCoinsBot": {
+      "head_oid": "c44ef83069220261eb3a75878c2b2d211cd4165d",
+      "my_commits": 1,
+      "additions": 900,
       "deletions": 0
     },
     "ashfromsky/07.10lesson": {
@@ -270,11 +168,35 @@
       "additions": 19035,
       "deletions": 66
     },
+    "ashfromsky/MessengerAppFrontend": {
+      "head_oid": "d141c360c4ef2ed8df624475dc743b66bf94ef96",
+      "my_commits": 2,
+      "additions": 4755,
+      "deletions": 12
+    },
+    "ashfromsky/DogsWebsiteExam": {
+      "head_oid": "50fdd83e07cf9ed9fce97949f2792607b36a7a7c",
+      "my_commits": 1,
+      "additions": 919,
+      "deletions": 0
+    },
+    "ashfromsky/PageAboutMeHW": {
+      "head_oid": "952482e078e69e6040d509b1d264eefa1059f95d",
+      "my_commits": 1,
+      "additions": 210,
+      "deletions": 0
+    },
     "ashfromsky/HospitalSQL15.11": {
       "head_oid": "ad31cb49adab7774c3bef53106cfacb504f342b8",
       "my_commits": 4,
       "additions": 819,
       "deletions": 2
+    },
+    "ashfromsky/MigrationsMicrosoftSQL-20.11-": {
+      "head_oid": "8c403394c53fb8482beef375e3e3f968c1b8c00e",
+      "my_commits": 3,
+      "additions": 2624,
+      "deletions": 4
     },
     "ashfromsky/TestVersionS-CoinsBot": {
       "head_oid": "cdb98293b0f8de9fdbc4865e15c1832c8e80452c",
@@ -288,11 +210,11 @@
       "additions": 632,
       "deletions": 0
     },
-    "ashfromsky/MigrationsMicrosoftSQL-20.11-": {
-      "head_oid": "8c403394c53fb8482beef375e3e3f968c1b8c00e",
-      "my_commits": 3,
-      "additions": 2624,
-      "deletions": 4
+    "ashfromsky/SRCapp": {
+      "head_oid": "d01fee5c3ce801a36b56ad70a448952b35a08391",
+      "my_commits": 13,
+      "additions": 1891,
+      "deletions": 468
     },
     "ashfromsky/EmailVerifTest": {
       "head_oid": "8ba4186e710ae3cfa938820fe73131a99d6607cf",
@@ -300,11 +222,23 @@
       "additions": 115,
       "deletions": 5
     },
+    "ashfromsky/CSharpSystemResourcesControl": {
+      "head_oid": "98713812f9c0b62fcb3cb2bc33744bb7884c2534",
+      "my_commits": 21,
+      "additions": 2594,
+      "deletions": 1535
+    },
     "ashfromsky/jsonplaceholderPY": {
       "head_oid": "c6577a4007e0357e554482899b4a409ae27f6a31",
       "my_commits": 1,
       "additions": 238,
       "deletions": 0
+    },
+    "ashfromsky/Hackintosh-HP-Elitebook820G4-EFI": {
+      "head_oid": "9e3fd3bf92069ae9246bbffea741e3ea8f9840c6",
+      "my_commits": 3,
+      "additions": 36613,
+      "deletions": 1
     },
     "ashfromsky/RestAPIpyjsontest": {
       "head_oid": "f2cf64d6f94124af81309454fb643faeef410d5c",
@@ -312,23 +246,41 @@
       "additions": 557,
       "deletions": 244
     },
-    "ashfromsky/ViteReactShop": {
-      "head_oid": "8d4502c93001c04dfcab0af6dfe2018b9bfa265d",
-      "my_commits": 1,
-      "additions": 3973,
-      "deletions": 0
-    },
     "ashfromsky/RestApiCRUD": {
       "head_oid": "6819e90b8709181ba2382b3639ad541292d23277",
       "my_commits": 4,
       "additions": 703,
       "deletions": 464
     },
+    "ashfromsky/ViteReactShop": {
+      "head_oid": "8d4502c93001c04dfcab0af6dfe2018b9bfa265d",
+      "my_commits": 1,
+      "additions": 3973,
+      "deletions": 0
+    },
     "ashfromsky/SocialNetworkPractice": {
       "head_oid": "577220c477a3302d20658a426b8ca1806fb9f84a",
       "my_commits": 3,
       "additions": 5556,
       "deletions": 1
+    },
+    "ashfromsky/ashfromsky": {
+      "head_oid": "c7d23a615a17f402971e827fb6923442efa194d1",
+      "my_commits": 39,
+      "additions": 5641,
+      "deletions": 2574
+    },
+    "ashfromsky/NewsPortal": {
+      "head_oid": "7edecb4ff593b48d5d11efab04951a8b5b845860",
+      "my_commits": 3,
+      "additions": 76617,
+      "deletions": 14
+    },
+    "ashfromsky/ASPTodoTGBot": {
+      "head_oid": "0e5fbb549807aa225e8e1bd5ea42ae9cff654572",
+      "my_commits": 5,
+      "additions": 3145,
+      "deletions": 478
     },
     "ashfromsky/AspTodo": {
       "head_oid": "47ecabd3ad32e29cb67632b7ba10fb43c185bffc",
@@ -342,35 +294,17 @@
       "additions": 86258,
       "deletions": 1227
     },
-    "ashfromsky/ASPTodoTGBot": {
-      "head_oid": "0e5fbb549807aa225e8e1bd5ea42ae9cff654572",
-      "my_commits": 5,
-      "additions": 3145,
-      "deletions": 478
-    },
     "ashfromsky/OpenCVBaseVision": {
       "head_oid": "413ba70d96c501990a7bd697535fa1d54db24a3e",
       "my_commits": 2,
       "additions": 177,
       "deletions": 0
     },
-    "ashfromsky/NewsPortal": {
-      "head_oid": "7edecb4ff593b48d5d11efab04951a8b5b845860",
-      "my_commits": 3,
-      "additions": 76617,
-      "deletions": 14
-    },
     "ashfromsky/Todo-Beatiful": {
       "head_oid": "b7f6df5089d6c13b749b2626d70d8e8ad25a2f74",
       "my_commits": 16,
       "additions": 88231,
       "deletions": 1437
-    },
-    "ashfromsky/VeloraMessenger": {
-      "head_oid": "36525b4da6705143dcc8a5562805f1437b209cf0",
-      "my_commits": 1,
-      "additions": 83847,
-      "deletions": 0
     },
     "ashfromsky/AiApiMicroServiceDjangoPr": {
       "head_oid": "4766eadf7466e31c7c0a1e8807a31df195771a28",
@@ -384,11 +318,23 @@
       "additions": 1961,
       "deletions": 17
     },
-    "ashfromsky/SocialNetworkAPI": {
-      "head_oid": "02006ef912df70dd9fe4f7ee598636604f375042",
+    "ashfromsky/VeloraMessenger": {
+      "head_oid": "36525b4da6705143dcc8a5562805f1437b209cf0",
+      "my_commits": 1,
+      "additions": 83847,
+      "deletions": 0
+    },
+    "ashfromsky/helix-page": {
+      "head_oid": "93c95219c86954877c408f4530fccac9d49591e1",
       "my_commits": 4,
-      "additions": 552,
-      "deletions": 115
+      "additions": 1349,
+      "deletions": 616
+    },
+    "ashfromsky/flappyvova": {
+      "head_oid": "6da2d9844a955b70fbd412b467334e279584c5f6",
+      "my_commits": 1,
+      "additions": 590,
+      "deletions": 0
     },
     "ashfromsky/social-network-backend": {
       "head_oid": "2004e3ca5257f4027b2f53f663e89b1edfa67602",
@@ -396,16 +342,34 @@
       "additions": 95,
       "deletions": 4
     },
+    "ashfromsky/SocialNetworkAPI": {
+      "head_oid": "02006ef912df70dd9fe4f7ee598636604f375042",
+      "my_commits": 4,
+      "additions": 552,
+      "deletions": 115
+    },
+    "ashfromsky/WeatherFastAPI": {
+      "head_oid": "880d7783520fe1225137e6548600327fd87233eb",
+      "my_commits": 14,
+      "additions": 873,
+      "deletions": 134
+    },
+    "ashfromsky/linuxconfigs": {
+      "head_oid": "3a020ad8fb066ef08145aabc4b2d283770e1c586",
+      "my_commits": 1,
+      "additions": 416,
+      "deletions": 0
+    },
     "ashfromsky/VeloraLoginAPIGO": {
       "head_oid": "d80e240f5eabe219d0a777fd41360979eb361b86",
       "my_commits": 2,
       "additions": 591,
       "deletions": 1
     },
-    "ashfromsky/linuxconfigs": {
-      "head_oid": "3a020ad8fb066ef08145aabc4b2d283770e1c586",
+    "ashfromsky/Yaradb_Test": {
+      "head_oid": "cb171b15a28e8b65ec00094cbe1c7fd9c3b92a5c",
       "my_commits": 1,
-      "additions": 416,
+      "additions": 155,
       "deletions": 0
     },
     "ashfromsky/velora-project-backend": {
@@ -414,28 +378,16 @@
       "additions": 3299,
       "deletions": 1661
     },
-    "ashfromsky/velora-project-frontend": {
-      "head_oid": "99af446e9fa5c056fe037b53e58ffbd5dc6da3c5",
-      "my_commits": 54,
-      "additions": 12566,
-      "deletions": 4470
-    },
-    "ashfromsky/Yaradb_Test": {
-      "head_oid": "cb171b15a28e8b65ec00094cbe1c7fd9c3b92a5c",
-      "my_commits": 1,
-      "additions": 155,
-      "deletions": 0
+    "ashfromsky/yaradb-client-py": {
+      "head_oid": "19ac68de3b93d29a4192ff29c02f1709499d7221",
+      "my_commits": 8,
+      "additions": 1307,
+      "deletions": 202
     },
     "ashfromsky/yaradb-auth": {
       "head_oid": "25e57421931cfb27471627f0ce1109611e1667b4",
       "my_commits": 1,
       "additions": 56,
-      "deletions": 0
-    },
-    "ashfromsky/FeaneProject": {
-      "head_oid": "5aa00367fa57c6a963d4bf483be700d25b784875",
-      "my_commits": 1,
-      "additions": 62,
       "deletions": 0
     },
     "ashfromsky/yaradb-auth-py": {
@@ -444,11 +396,17 @@
       "additions": 272,
       "deletions": 27
     },
-    "ashfromsky/ProjectFeane": {
-      "head_oid": "36828b36c9afda2fc1458dacec7e69b4b9d70780",
-      "my_commits": 2,
-      "additions": 42824,
+    "ashfromsky/FeaneProject": {
+      "head_oid": "5aa00367fa57c6a963d4bf483be700d25b784875",
+      "my_commits": 1,
+      "additions": 62,
       "deletions": 0
+    },
+    "MxmXyn245/Feane": {
+      "head_oid": "57ba86c889d9619ddd27ccde4b0b26a7df49ca58",
+      "my_commits": 35,
+      "additions": 48641,
+      "deletions": 2706
     },
     "ashfromsky/yaradb-ai-integration": {
       "head_oid": "98df5aab036f198973a17ddd6366f97d1cac0b79",
@@ -456,11 +414,23 @@
       "additions": 505,
       "deletions": 23
     },
-    "MxmXyn245/Feane": {
-      "head_oid": "57ba86c889d9619ddd27ccde4b0b26a7df49ca58",
-      "my_commits": 35,
-      "additions": 48641,
-      "deletions": 2706
+    "ashfromsky/ProjectFeane": {
+      "head_oid": "36828b36c9afda2fc1458dacec7e69b4b9d70780",
+      "my_commits": 2,
+      "additions": 42824,
+      "deletions": 0
+    },
+    "ashfromsky/yaradb": {
+      "head_oid": "0e233caa71e827ef90924ddb38d65c4a1d031ac9",
+      "my_commits": 94,
+      "additions": 7973,
+      "deletions": 1596
+    },
+    "ashfromsky/velora-project-frontend": {
+      "head_oid": "99af446e9fa5c056fe037b53e58ffbd5dc6da3c5",
+      "my_commits": 54,
+      "additions": 12566,
+      "deletions": 4470
     },
     "ashfromsky/AITRAINING": {
       "head_oid": "a795e54c256f3717fa5f02fda092a7ce19af9578",
@@ -480,23 +450,11 @@
       "additions": 294,
       "deletions": 0
     },
-    "ashfromsky/ESP32MAINOS": {
-      "head_oid": "841704c38dfe6ef65e6ec92251fb8ff1776743dc",
-      "my_commits": 1,
-      "additions": 1133,
-      "deletions": 0
-    },
-    "ashfromsky/Feane": {
-      "head_oid": "adf88d87c1545e227b26f24fc1439303647d04ef",
-      "my_commits": 11,
-      "additions": 941,
-      "deletions": 85
-    },
-    "ashfromsky/ESP32_WEATHER_TIME": {
-      "head_oid": "37353ba040bd1c0c31705f0237f62b3844f05a5d",
-      "my_commits": 1,
-      "additions": 429,
-      "deletions": 0
+    "ashfromsky/acquiremock": {
+      "head_oid": "26f47bc68f7b6079fe424c21982533f018320c4c",
+      "my_commits": 37,
+      "additions": 9796,
+      "deletions": 2926
     },
     "ashfromsky/nora": {
       "head_oid": "537574f07a0b9e22f5faee61965573993870437e",
@@ -504,11 +462,47 @@
       "additions": 1245,
       "deletions": 437
     },
+    "ashfromsky/helix": {
+      "head_oid": "581dfd8d8351acf606a423a27cf1d2233f301944",
+      "my_commits": 34,
+      "additions": 9166,
+      "deletions": 2468
+    },
+    "ashfromsky/ESP32_WEATHER_TIME": {
+      "head_oid": "37353ba040bd1c0c31705f0237f62b3844f05a5d",
+      "my_commits": 1,
+      "additions": 429,
+      "deletions": 0
+    },
+    "ashfromsky/ESP32MAINOS": {
+      "head_oid": "841704c38dfe6ef65e6ec92251fb8ff1776743dc",
+      "my_commits": 1,
+      "additions": 1133,
+      "deletions": 0
+    },
+    "ashfromsky/140125CV": {
+      "head_oid": "35d25e4393a06f8af85e0a8823ffe91f33bc03c7",
+      "my_commits": 3,
+      "additions": 556,
+      "deletions": 31
+    },
     "ashfromsky/API29122025": {
       "head_oid": "459ab1ef425915c8fbc99ce7f6692a9e5cfb54fb",
       "my_commits": 6,
       "additions": 443,
       "deletions": 100
+    },
+    "ashfromsky/ExpertChatBot": {
+      "head_oid": "873d790fc331ef466dcbc8c19fa4357174a146ca",
+      "my_commits": 4,
+      "additions": 656,
+      "deletions": 76
+    },
+    "ashfromsky/Feane": {
+      "head_oid": "adf88d87c1545e227b26f24fc1439303647d04ef",
+      "my_commits": 11,
+      "additions": 941,
+      "deletions": 85
     },
     "ashfromsky/NestJSFirstApp": {
       "head_oid": "983dc1d1d12ed40075314563775f20146adf7c0b",
@@ -521,12 +515,6 @@
       "my_commits": 2,
       "additions": 42,
       "deletions": 0
-    },
-    "ashfromsky/ExpertChatBot": {
-      "head_oid": "873d790fc331ef466dcbc8c19fa4357174a146ca",
-      "my_commits": 4,
-      "additions": 656,
-      "deletions": 76
     },
     "ashfromsky/search_algorithms": {
       "head_oid": "617d9168c6976f44c1254e63def17cbd947e67c0",
@@ -552,16 +540,22 @@
       "additions": 513,
       "deletions": 17
     },
-    "ashfromsky/AiOrchestration": {
-      "head_oid": "702fa5e3a071922429d230fe1ee5a2b1529871cd",
-      "my_commits": 1,
-      "additions": 1745,
-      "deletions": 0
+    "ashfromsky/gitra": {
+      "head_oid": "a0f8c8bcefccb6e486648facd846423468e4dd2b",
+      "my_commits": 35,
+      "additions": 9759,
+      "deletions": 3967
     },
     "Clan-Codeprano-INT20H-26/frontend-template": {
       "head_oid": "cd1657cafbd98c0010afc433ce507d568ba13642",
       "my_commits": 0,
       "additions": 0,
+      "deletions": 0
+    },
+    "ashfromsky/AiOrchestration": {
+      "head_oid": "702fa5e3a071922429d230fe1ee5a2b1529871cd",
+      "my_commits": 1,
+      "additions": 1745,
       "deletions": 0
     },
     "Clan-Codeprano-INT20H-26/backend": {
@@ -576,6 +570,12 @@
       "additions": 979,
       "deletions": 8
     },
+    "ashfromsky/ArchLinuxi3Config": {
+      "head_oid": "c561c94681d38440347ee60bd6380974e8d89517",
+      "my_commits": 1,
+      "additions": 1252,
+      "deletions": 0
+    },
     "ashfromsky/xor_detection_ai": {
       "head_oid": "ef9da47810bb55353a66a4695c7d5e9a9e5ef550",
       "my_commits": 3,
@@ -587,12 +587,6 @@
       "my_commits": 5,
       "additions": 971,
       "deletions": 3
-    },
-    "ashfromsky/ArchLinuxi3Config": {
-      "head_oid": "c561c94681d38440347ee60bd6380974e8d89517",
-      "my_commits": 1,
-      "additions": 1252,
-      "deletions": 0
     },
     "ashfromsky/python-under-the-hood": {
       "head_oid": "44fbee36d6902ee2729ce112b2d05656eab83d70",
@@ -606,23 +600,23 @@
       "additions": 4568,
       "deletions": 1246
     },
-    "ashfromsky/project-lattice": {
-      "head_oid": "e1ee8707eba002a89bb50325cdd474f46b48af45",
-      "my_commits": 1,
-      "additions": 823,
-      "deletions": 0
-    },
     "Clan-Codeprano-INT20H-26/iwk-frontend": {
       "head_oid": "54e902206c4a778a1865cd4f673fc9d01b109516",
       "my_commits": 0,
       "additions": 0,
       "deletions": 0
     },
-    "ashfromsky/sentinel": {
-      "head_oid": "8953f0efea44ec446f48f29c14c4bd632c8278a3",
-      "my_commits": 36,
-      "additions": 28654,
-      "deletions": 7652
+    "ashfromsky/project-lattice": {
+      "head_oid": "e1ee8707eba002a89bb50325cdd474f46b48af45",
+      "my_commits": 1,
+      "additions": 823,
+      "deletions": 0
+    },
+    "ashfromsky/travel-planner-crewred": {
+      "head_oid": "53c53f90254806017833d103589355a69bc5ac9f",
+      "my_commits": 27,
+      "additions": 4374,
+      "deletions": 218
     },
     "ashfromsky/nori": {
       "head_oid": "8a8707d24bce6ac98c22d55e1b9099bd31384728",
@@ -630,17 +624,23 @@
       "additions": 21508,
       "deletions": 11080
     },
+    "ashfromsky/sentinel-cli": {
+      "head_oid": "db4d0ebe5e3598440a555522155465f2c44ff63f",
+      "my_commits": 19,
+      "additions": 5306,
+      "deletions": 1784
+    },
+    "ashfromsky/sentinel": {
+      "head_oid": "8953f0efea44ec446f48f29c14c4bd632c8278a3",
+      "my_commits": 36,
+      "additions": 28654,
+      "deletions": 7652
+    },
     "ashfromsky/project-deepstrike": {
       "head_oid": "d3fbabb92098e225b671115681631b54e08824e0",
       "my_commits": 90,
       "additions": 583859,
       "deletions": 132230
-    },
-    "ashfromsky/140125CV": {
-      "head_oid": "35d25e4393a06f8af85e0a8823ffe91f33bc03c7",
-      "my_commits": 3,
-      "additions": 556,
-      "deletions": 31
     },
     "ItStepDiplomaTeam1/smarket": {
       "head_oid": "3a3660202350e88ba5d5345bf218c9e99526a4a6",
