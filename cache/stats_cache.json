@@ -265,7 +265,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "cfd716de44f1956614c08ef7053673e383f290b0",
+      "head_oid": "126113e27d88b4af8a681a3e5a5886243ac6a15e",
       "my_commits": 43,
       "additions": 6406,
       "deletions": 3141
@@ -647,6 +647,12 @@
       "my_commits": 453,
       "additions": 156842,
       "deletions": 40881
+    },
+    "ashfromsky/acquiremock-ghsa-wc2w-mgqq-x24w": {
+      "head_oid": "26f47bc68f7b6079fe424c21982533f018320c4c",
+      "my_commits": 37,
+      "additions": 9796,
+      "deletions": 2926
     }
   }
 }
