@@ -47,7 +47,7 @@
     <tspan x="375" y="32" class="key">ashfromsky@github</tspan><tspan class="cc"> ----------------------------------------------------</tspan>
 
     <tspan x="375" y="66" class="key">. OS: </tspan><tspan class="cc">......................... </tspan><tspan id="os_val" class="value">Windows 11, Arch Linux (i3)</tspan>
-    <tspan x="375" y="86" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 2 months, 20 days</tspan>
+    <tspan x="375" y="86" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 2 months, 21 days</tspan>
     <tspan x="375" y="106" class="key">. Host: </tspan><tspan class="cc">....................... </tspan><tspan id="host_val" class="value">Kyiv, Ukraine</tspan>
     <tspan x="375" y="126" class="key">. Kernel: </tspan><tspan class="cc">..................... </tspan><tspan id="kernel_val" class="value">Backend &amp; AI Systems Engineer</tspan>
     <tspan x="375" y="146" class="key">. IDE: </tspan><tspan class="cc">........................ </tspan><tspan id="ide_val" class="value">PyCharm, Antigravity, Codex, OpenCode</tspan>
@@ -58,7 +58,7 @@
     <tspan x="375" y="240" class="key">. Stack.AI: </tspan><tspan class="cc">................... </tspan><tspan id="stack_ai_val" class="value">LLM Agents, RAG, Tool Calling</tspan>
     <tspan x="375" y="260" class="key">. Stack.Infra: </tspan><tspan class="cc">................ </tspan><tspan id="stack_infra_val" class="value">Docker, GitHub Actions, Linux, Hetzner</tspan>
 
-    <tspan x="375" y="294" class="key">. Projects[0]: </tspan><tspan class="cc">................ </tspan><tspan id="proj1_val" class="value">AcquireMock — Payment Gateway Simulator  ★ 83  ⑂ 9</tspan>
+    <tspan x="375" y="294" class="key">. Projects[0]: </tspan><tspan class="cc">................ </tspan><tspan id="proj1_val" class="value">AcquireMock — Payment Gateway Simulator  ★ 84  ⑂ 9</tspan>
     <tspan x="375" y="314" class="key">. Projects[1]: </tspan><tspan class="cc">................ </tspan><tspan id="proj2_val" class="value">Smarket — Distributed Grocery Platform</tspan>
     <tspan x="375" y="334" class="key">. Projects[2]: </tspan><tspan class="cc">................ </tspan><tspan id="proj3_val" class="value">Sentinel — Multi-Agent Code Security</tspan>
     <tspan x="375" y="354" class="key">. Projects[3]: </tspan><tspan class="cc">................ </tspan><tspan id="proj4_val" class="value">YaraDB — In-Memory Document Database     ★ 34  ⑂ 0</tspan>
@@ -72,8 +72,8 @@
     <tspan x="375" y="502" class="key">. GitHub: </tspan><tspan class="cc">..................... </tspan><tspan id="github_val" class="value">ashfromsky</tspan>
 
     <tspan x="375" y="536" class="key">- GitHub Stats </tspan><tspan class="cc">---------------------------------------------------</tspan>
-    <tspan x="375" y="556" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">103</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">107</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">161</tspan>
-    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,397</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">19</tspan>
+    <tspan x="375" y="556" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">103</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">107</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">162</tspan>
+    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,397</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">20</tspan>
     <tspan x="375" y="596" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,394,086</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">1,623,725++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">229,639--</tspan><tspan class="text"> )</tspan>
   </text>
 </svg>

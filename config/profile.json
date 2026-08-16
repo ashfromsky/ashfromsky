@@ -6,14 +6,50 @@
   "email": "tymofiischur@gmail.com",
   "linkedin": "tymofii-shchur",
   "github": "ashfromsky",
-  "os": ["Windows 11", "Arch Linux (i3)"],
-  "ide": ["PyCharm", "Antigravity", "Codex", "OpenCode"],
-  "languages": ["Python", "C#/.NET", "Go", "C++", "SQL"],
-  "backend": ["FastAPI", "ASP.NET Core", "Django REST"],
-  "data": ["PostgreSQL", "Redis", "MongoDB", "RabbitMQ"],
-  "ai": ["LLM Agents", "RAG", "Tool Calling"],
-  "infra": ["Docker", "GitHub Actions", "Linux", "Hetzner"],
-  "interests": ["Alpine Skiing", "Music", "PC Hardware"],
+  "os": [
+    "Windows 11",
+    "Arch Linux (i3)"
+  ],
+  "ide": [
+    "PyCharm",
+    "Antigravity",
+    "Codex",
+    "OpenCode"
+  ],
+  "languages": [
+    "Python",
+    "C#/.NET",
+    "Go",
+    "C++",
+    "SQL"
+  ],
+  "backend": [
+    "FastAPI",
+    "ASP.NET Core",
+    "Django REST"
+  ],
+  "data": [
+    "PostgreSQL",
+    "Redis",
+    "MongoDB",
+    "RabbitMQ"
+  ],
+  "ai": [
+    "LLM Agents",
+    "RAG",
+    "Tool Calling"
+  ],
+  "infra": [
+    "Docker",
+    "GitHub Actions",
+    "Linux",
+    "Hetzner"
+  ],
+  "interests": [
+    "Alpine Skiing",
+    "Music",
+    "PC Hardware"
+  ],
   "birth_date": "2008-05-26",
   "projects": [
     {
@@ -21,7 +57,7 @@
       "name": "AcquireMock",
       "repo": "ashfromsky/acquiremock",
       "desc": "Payment Gateway Simulator",
-      "stars": 83,
+      "stars": 84,
       "forks": 9
     },
     {
