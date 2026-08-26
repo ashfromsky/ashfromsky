@@ -47,7 +47,7 @@
     <tspan x="375" y="32" class="key">ashfromsky@github</tspan><tspan class="cc"> ----------------------------------------------------</tspan>
 
     <tspan x="375" y="66" class="key">. OS: </tspan><tspan class="cc">......................... </tspan><tspan id="os_val" class="value">Windows 11, Arch Linux (i3)</tspan>
-    <tspan x="375" y="86" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 2 months, 30 days</tspan>
+    <tspan x="375" y="86" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 3 months</tspan>
     <tspan x="375" y="106" class="key">. Host: </tspan><tspan class="cc">....................... </tspan><tspan id="host_val" class="value">Kyiv, Ukraine</tspan>
     <tspan x="375" y="126" class="key">. Kernel: </tspan><tspan class="cc">..................... </tspan><tspan id="kernel_val" class="value">Backend &amp; AI Systems Engineer</tspan>
     <tspan x="375" y="146" class="key">. IDE: </tspan><tspan class="cc">........................ </tspan><tspan id="ide_val" class="value">PyCharm, Antigravity, Codex, OpenCode</tspan>
