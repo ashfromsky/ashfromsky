@@ -47,7 +47,7 @@
     <tspan x="375" y="32" class="key">ashfromsky@github</tspan><tspan class="cc"> ----------------------------------------------------</tspan>
 
     <tspan x="375" y="66" class="key">. OS: </tspan><tspan class="cc">......................... </tspan><tspan id="os_val" class="value">Windows 11, Arch Linux (i3)</tspan>
-    <tspan x="375" y="86" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 3 months, 1 day</tspan>
+    <tspan x="375" y="86" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 3 months, 2 days</tspan>
     <tspan x="375" y="106" class="key">. Host: </tspan><tspan class="cc">....................... </tspan><tspan id="host_val" class="value">Kyiv, Ukraine</tspan>
     <tspan x="375" y="126" class="key">. Kernel: </tspan><tspan class="cc">..................... </tspan><tspan id="kernel_val" class="value">Backend &amp; AI Systems Engineer</tspan>
     <tspan x="375" y="146" class="key">. IDE: </tspan><tspan class="cc">........................ </tspan><tspan id="ide_val" class="value">PyCharm, Antigravity, Codex, OpenCode</tspan>
@@ -73,7 +73,7 @@
 
     <tspan x="375" y="536" class="key">- GitHub Stats </tspan><tspan class="cc">---------------------------------------------------</tspan>
     <tspan x="375" y="556" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">103</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">107</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">163</tspan>
-    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,397</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">20</tspan>
+    <tspan x="375" y="576" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,397</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">19</tspan>
     <tspan x="375" y="596" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,394,086</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">1,623,725++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">229,639--</tspan><tspan class="text"> )</tspan>
   </text>
 </svg>
