@@ -57,7 +57,7 @@
       "name": "AcquireMock",
       "repo": "ashfromsky/acquiremock",
       "desc": "Payment Gateway Simulator",
-      "stars": 85,
+      "stars": 86,
       "forks": 9
     },
     {
@@ -75,7 +75,7 @@
       "name": "YaraDB",
       "repo": "ashfromsky/yaradb",
       "desc": "In-Memory Document Database",
-      "stars": 35,
+      "stars": 36,
       "forks": 0
     },
     {
@@ -83,7 +83,7 @@
       "name": "Helix",
       "repo": "ashfromsky/helix",
       "desc": "AI-Powered API Mocking",
-      "stars": 24,
+      "stars": 25,
       "forks": 2
     }
   ]
