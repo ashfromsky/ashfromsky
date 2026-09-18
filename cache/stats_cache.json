@@ -265,7 +265,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "b8e59ba68b6574f871cb4598edca872eb103785a",
+      "head_oid": "8107342157cc907a7890ee128a180832b733a2c7",
       "my_commits": 43,
       "additions": 6406,
       "deletions": 3141
@@ -671,6 +671,12 @@
       "my_commits": 1,
       "additions": 17,
       "deletions": 5
+    },
+    "ashfromsky/computer-discrete-mathemathics-kpi": {
+      "head_oid": "4ef6050cadbeaf9b0f0295031a69e8291a529137",
+      "my_commits": 1,
+      "additions": 198,
+      "deletions": 0
     }
   }
 }
