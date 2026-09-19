@@ -265,7 +265,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "8107342157cc907a7890ee128a180832b733a2c7",
+      "head_oid": "73c6ad20db9f14e5cd05a6f80bf27342dadd5042",
       "my_commits": 43,
       "additions": 6406,
       "deletions": 3141
@@ -677,6 +677,12 @@
       "my_commits": 1,
       "additions": 198,
       "deletions": 0
+    },
+    "ashfromsky/syntaxis": {
+      "head_oid": "1e52bb0041bd7452ecadb58ca9b206c44ecda8e8",
+      "my_commits": 6,
+      "additions": 3045,
+      "deletions": 22
     }
   }
 }
