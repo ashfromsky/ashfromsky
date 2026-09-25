@@ -12,7 +12,7 @@
 </div>
 
 <!-- REPO_METRICS_START -->
-<!-- AcquireMock: ★ 87 ⑂ 9 -->
+<!-- AcquireMock: ★ 88 ⑂ 9 -->
 <!-- YaraDB: ★ 36 ⑂ 0 -->
 <!-- Helix: ★ 25 ⑂ 2 -->
 <!-- REPO_METRICS_END -->
