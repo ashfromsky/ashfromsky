@@ -7,8 +7,7 @@
   "linkedin": "tymofii-shchur",
   "github": "ashfromsky",
   "os": [
-    "Windows 11",
-    "Arch Linux (i3)"
+    "Arch Linux"
   ],
   "ide": [
     "PyCharm",
@@ -32,23 +31,50 @@
     "PostgreSQL",
     "Redis",
     "MongoDB",
-    "RabbitMQ"
+    "RabbitMQ",
+    "Meilisearch",
+    "SQLAlchemy / AsyncPG"
   ],
   "ai": [
     "LLM Agents",
     "RAG",
-    "Tool Calling"
+    "Tool Calling",
+    "Structured Outputs",
+    "Multi-Agent Orchestration",
+    "Multi-Provider Routing",
+    "Spec-Driven Development (OpenSpec)"
   ],
   "infra": [
     "Docker",
+    "Docker Compose",
     "GitHub Actions",
     "Linux",
-    "Hetzner"
+    "Hetzner",
+    "Azure",
+    "Cloudflare Pages"
+  ],
+  "security": [
+    "JWT",
+    "OAuth 2.0",
+    "HMAC-SHA256",
+    "Idempotency",
+    "Rate Limiting",
+    "Circuit Breakers"
   ],
   "interests": [
     "Alpine Skiing",
     "Music",
     "PC Hardware"
+  ],
+  "education": "Kyiv Polytechnic Institute (FIOT), Computer Engineering, 2026–2030",
+  "hackathons": [
+    "AMD Developer Hackathon",
+    "INT20H"
+  ],
+  "spoken_languages": [
+    "English B2+",
+    "German B2",
+    "Ukrainian/Russian native"
   ],
   "birth_date": "2008-05-26",
   "projects": [

@@ -79,9 +79,30 @@ class SVGRenderer:
         if "data" in profile_config:
             set_text("stack_data_val", ", ".join(profile_config["data"]))
         if "ai" in profile_config:
-            set_text("stack_ai_val", ", ".join(profile_config["ai"]))
+            ai_data = profile_config["ai"]
+            if isinstance(ai_data, list):
+                elem2 = root.find(".//*[@id='stack_ai_val2']")
+                if elem2 is not None:
+                    set_text("stack_ai_val", ", ".join(ai_data[:4]) + ",")
+                    set_text("stack_ai_val2", ", ".join(ai_data[4:]))
+                else:
+                    set_text("stack_ai_val", ", ".join(ai_data))
+            else:
+                set_text("stack_ai_val", str(ai_data))
         if "infra" in profile_config:
             set_text("stack_infra_val", ", ".join(profile_config["infra"]))
+        if "security" in profile_config:
+            security_val = profile_config["security"]
+            set_text("stack_security_val", ", ".join(security_val) if isinstance(security_val, list) else str(security_val))
+        if "education" in profile_config:
+            education_val = profile_config["education"]
+            set_text("education_val", ", ".join(education_val) if isinstance(education_val, list) else str(education_val))
+        if "hackathons" in profile_config:
+            hackathons_val = profile_config["hackathons"]
+            set_text("hackathons_val", ", ".join(hackathons_val) if isinstance(hackathons_val, list) else str(hackathons_val))
+        if "spoken_languages" in profile_config:
+            spoken_val = profile_config["spoken_languages"]
+            set_text("languages_val", ", ".join(spoken_val) if isinstance(spoken_val, list) else str(spoken_val))
         if "interests" in profile_config:
             set_text("interests_val", ", ".join(profile_config["interests"]))
 
