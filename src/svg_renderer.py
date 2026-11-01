@@ -77,12 +77,20 @@ class SVGRenderer:
         if "backend" in profile_config:
             set_text("stack_backend_val", ", ".join(profile_config["backend"]))
         if "data" in profile_config:
-            set_text("stack_data_val", ", ".join(profile_config["data"]))
+            data_list = profile_config["data"]
+            if isinstance(data_list, list) and root.find(".//*[@id='stack_data_val2']") is not None:
+                set_text("stack_data_val", ", ".join(data_list[:4]) + ",")
+                set_text("stack_data_val2", ", ".join(data_list[4:]))
+            else:
+                set_text("stack_data_val", ", ".join(data_list) if isinstance(data_list, list) else str(data_list))
         if "ai" in profile_config:
             ai_data = profile_config["ai"]
             if isinstance(ai_data, list):
-                elem2 = root.find(".//*[@id='stack_ai_val2']")
-                if elem2 is not None:
+                if root.find(".//*[@id='stack_ai_val3']") is not None:
+                    set_text("stack_ai_val", ", ".join(ai_data[:4]) + ",")
+                    set_text("stack_ai_val2", ", ".join(ai_data[4:6]) + ",")
+                    set_text("stack_ai_val3", ", ".join(ai_data[6:]))
+                elif root.find(".//*[@id='stack_ai_val2']") is not None:
                     set_text("stack_ai_val", ", ".join(ai_data[:4]) + ",")
                     set_text("stack_ai_val2", ", ".join(ai_data[4:]))
                 else:
@@ -90,13 +98,28 @@ class SVGRenderer:
             else:
                 set_text("stack_ai_val", str(ai_data))
         if "infra" in profile_config:
-            set_text("stack_infra_val", ", ".join(profile_config["infra"]))
+            infra_list = profile_config["infra"]
+            if isinstance(infra_list, list) and root.find(".//*[@id='stack_infra_val2']") is not None:
+                set_text("stack_infra_val", ", ".join(infra_list[:4]) + ",")
+                set_text("stack_infra_val2", ", ".join(infra_list[4:]))
+            else:
+                set_text("stack_infra_val", ", ".join(infra_list) if isinstance(infra_list, list) else str(infra_list))
         if "security" in profile_config:
-            security_val = profile_config["security"]
-            set_text("stack_security_val", ", ".join(security_val) if isinstance(security_val, list) else str(security_val))
+            sec_list = profile_config["security"]
+            if isinstance(sec_list, list) and root.find(".//*[@id='stack_security_val2']") is not None:
+                set_text("stack_security_val", ", ".join(sec_list[:4]) + ",")
+                set_text("stack_security_val2", ", ".join(sec_list[4:]))
+            else:
+                set_text("stack_security_val", ", ".join(sec_list) if isinstance(sec_list, list) else str(sec_list))
         if "education" in profile_config:
-            education_val = profile_config["education"]
-            set_text("education_val", ", ".join(education_val) if isinstance(education_val, list) else str(education_val))
+            edu_val = profile_config["education"]
+            edu_str = ", ".join(edu_val) if isinstance(edu_val, list) else str(edu_val)
+            if root.find(".//*[@id='education_val2']") is not None and ", " in edu_str:
+                parts = edu_str.split(", ", 1)
+                set_text("education_val", parts[0] + ",")
+                set_text("education_val2", parts[1])
+            else:
+                set_text("education_val", edu_str)
         if "hackathons" in profile_config:
             hackathons_val = profile_config["hackathons"]
             set_text("hackathons_val", ", ".join(hackathons_val) if isinstance(hackathons_val, list) else str(hackathons_val))
