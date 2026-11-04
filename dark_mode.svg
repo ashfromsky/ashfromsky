@@ -47,7 +47,7 @@
     <tspan x="360" y="36" class="key">ashfromsky@github</tspan><tspan class="cc"> -----------------------------------------------------------------</tspan>
 
     <tspan x="360" y="70" class="key">. OS: </tspan><tspan class="cc">......................... </tspan><tspan id="os_val" class="value">Arch Linux</tspan>
-    <tspan x="360" y="90" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 5 months, 8 days</tspan>
+    <tspan x="360" y="90" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 5 months, 9 days</tspan>
     <tspan x="360" y="110" class="key">. Host: </tspan><tspan class="cc">....................... </tspan><tspan id="host_val" class="value">Kyiv, Ukraine</tspan>
     <tspan x="360" y="130" class="key">. Kernel: </tspan><tspan class="cc">..................... </tspan><tspan id="kernel_val" class="value">Backend &amp; AI Systems Engineer</tspan>
     <tspan x="360" y="150" class="key">. IDE: </tspan><tspan class="cc">........................ </tspan><tspan id="ide_val" class="value">PyCharm, Antigravity, Codex, OpenCode</tspan>
@@ -64,7 +64,7 @@
     <tspan x="360" y="364" class="key">. Stack.Security: </tspan><tspan class="cc">............. </tspan><tspan id="stack_security_val" class="value">JWT, OAuth 2.0, HMAC-SHA256, Idempotency,</tspan>
     <tspan x="360" y="384" class="cc">                                </tspan><tspan id="stack_security_val2" class="value">Rate Limiting, Circuit Breakers</tspan>
 
-    <tspan x="360" y="418" class="key">. Projects[0]: </tspan><tspan class="cc">................ </tspan><tspan id="proj1_val" class="value">AcquireMock — Payment Gateway Simulator  ★ 88  ⑂ 11</tspan>
+    <tspan x="360" y="418" class="key">. Projects[0]: </tspan><tspan class="cc">................ </tspan><tspan id="proj1_val" class="value">AcquireMock — Payment Gateway Simulator  ★ 89  ⑂ 11</tspan>
     <tspan x="360" y="438" class="key">. Projects[1]: </tspan><tspan class="cc">................ </tspan><tspan id="proj2_val" class="value">Smarket — Distributed Grocery Platform</tspan>
     <tspan x="360" y="458" class="key">. Projects[2]: </tspan><tspan class="cc">................ </tspan><tspan id="proj3_val" class="value">Sentinel — Multi-Agent Code Security</tspan>
     <tspan x="360" y="478" class="key">. Projects[3]: </tspan><tspan class="cc">................ </tspan><tspan id="proj4_val" class="value">YaraDB — In-Memory Document Database     ★ 37  ⑂ 0</tspan>
@@ -82,8 +82,8 @@
     <tspan x="360" y="706" class="key">. GitHub: </tspan><tspan class="cc">..................... </tspan><tspan id="github_val" class="value">ashfromsky</tspan>
 
     <tspan x="360" y="740" class="key">- GitHub Stats </tspan><tspan class="cc">--------------------------------------------------------------------</tspan>
-    <tspan x="360" y="760" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">109</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">115</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">171</tspan>
-    <tspan x="360" y="780" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,443</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">27</tspan>
-    <tspan x="360" y="800" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,813,417</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">2,056,915++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">243,498--</tspan><tspan class="text"> )</tspan>
+    <tspan x="360" y="760" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">109</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">115</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">172</tspan>
+    <tspan x="360" y="780" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,444</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">26</tspan>
+    <tspan x="360" y="800" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">1,823,278</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">2,067,170++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">243,892--</tspan><tspan class="text"> )</tspan>
   </text>
 </svg>
