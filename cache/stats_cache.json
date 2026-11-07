@@ -31,7 +31,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "ccd8eedf866bf152f60494a95d62c88b092e9a32",
+      "head_oid": "d53c4a9f71dc31eec56cb870e4252b718fd05eb0",
       "my_commits": 45,
       "additions": 6988,
       "deletions": 4777
@@ -707,6 +707,12 @@
       "my_commits": 453,
       "additions": 156842,
       "deletions": 40881
+    },
+    "ashfromsky/dsh-opencode-cli-bridge": {
+      "head_oid": "bcd75c0107b4120c1f4573cd537797a8e4cc4474",
+      "my_commits": 3,
+      "additions": 1467,
+      "deletions": 146
     }
   }
 }
