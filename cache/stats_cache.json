@@ -31,7 +31,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "d53c4a9f71dc31eec56cb870e4252b718fd05eb0",
+      "head_oid": "442ba10c92e9efa511fe05a8e68bffb071f96664",
       "my_commits": 45,
       "additions": 6988,
       "deletions": 4777
@@ -685,10 +685,10 @@
       "deletions": 0
     },
     "ashfromsky/yappin": {
-      "head_oid": "33748433180d24424d084189c78d0bd388c9621e",
-      "my_commits": 27,
-      "additions": 184567,
-      "deletions": 16734
+      "head_oid": "fe4e42219c7ae5e699e51df13c5bb31b46a4598e",
+      "my_commits": 28,
+      "additions": 184779,
+      "deletions": 16896
     },
     "ashfromsky/project-deepstrike": {
       "head_oid": "28f60abb59a8359e8c0bb9ebefef35d0df8befb6",
