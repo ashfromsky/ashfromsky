@@ -31,7 +31,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "442ba10c92e9efa511fe05a8e68bffb071f96664",
+      "head_oid": "8c0115f730cf6a211a4603a8a57c53d7256008e8",
       "my_commits": 45,
       "additions": 6988,
       "deletions": 4777
@@ -109,10 +109,10 @@
       "deletions": 5
     },
     "ashfromsky/computer-discrete-mathemathics-kpi": {
-      "head_oid": "4ef6050cadbeaf9b0f0295031a69e8291a529137",
-      "my_commits": 1,
-      "additions": 198,
-      "deletions": 0
+      "head_oid": "f75079f056ffa349715f6fabc402f0266a701123",
+      "my_commits": 2,
+      "additions": 775,
+      "deletions": 45
     },
     "ashfromsky/kpi_op_labs": {
       "head_oid": "1025e5e28636d7c0469c220e33d90ad898f00ef0",
@@ -685,10 +685,10 @@
       "deletions": 0
     },
     "ashfromsky/yappin": {
-      "head_oid": "fe4e42219c7ae5e699e51df13c5bb31b46a4598e",
-      "my_commits": 28,
-      "additions": 184779,
-      "deletions": 16896
+      "head_oid": "900c20c0f6fd8480de358284a881573350597868",
+      "my_commits": 40,
+      "additions": 212037,
+      "deletions": 18124
     },
     "ashfromsky/project-deepstrike": {
       "head_oid": "28f60abb59a8359e8c0bb9ebefef35d0df8befb6",
@@ -713,6 +713,150 @@
       "my_commits": 3,
       "additions": 1467,
       "deletions": 146
+    },
+    "agentic-trade-solutions/infra": {
+      "head_oid": "b048a63781a01db29cf352a8a5959318a45904c9",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/gitops": {
+      "head_oid": "898136a7bca372bbfbb4aaea751ad822656ab45a",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/client-web": {
+      "head_oid": "3792d8e8fa6a81c571c861094d390b65be78de0f",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/billing": {
+      "head_oid": "a839b36df262eb6f6f01abeaebc300e3da7f0634",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/notifications": {
+      "head_oid": "189f4bf80e30ddac8a724d7df27b743dce5e97e8",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/event-contracts": {
+      "head_oid": "4296e2e994a19de959abb5e07e35b641ffd873b2",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/gateway": {
+      "head_oid": "8fa1eb2c363173d1c4a73a2e308ff1650b6cebd9",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/strategy-engine": {
+      "head_oid": "c8d36bee6a3455172dae6dcb9c50de5ddef2591d",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/workspace": {
+      "head_oid": "4edc0651ecdf34f5b0db62f71468ce926646c51c",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/service-kit": {
+      "head_oid": "484a662d589d6fcdc5b84d1048e2a74a78631050",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/agent-runtime": {
+      "head_oid": "d7739f64fc29b2e21c36717ac6bca312eaba1b14",
+      "my_commits": 16,
+      "additions": 3469,
+      "deletions": 28
+    },
+    "agentic-trade-solutions/backtest": {
+      "head_oid": "4dbf21dbc61deea5b69883077f3bd1f9945e0c5c",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/risk-guard": {
+      "head_oid": "809502ac722def830481db98fdb44bdb14b08813",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/key-vault": {
+      "head_oid": "d62a1cdbde62e72f493be2cf7d4a20176c7ed864",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/execution": {
+      "head_oid": "dbf6f0c589f1bc2fc35e96ed205c4b705f065f52",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/portfolio": {
+      "head_oid": "ecd356e751ced30e2283690465aab441006db658",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/alt-ingest": {
+      "head_oid": "d59dd6874f19cdf8dd70583291ea26af7024b7cf",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/data-platform": {
+      "head_oid": "d501ee40d72ef6c4c3f277fd4e89cbbcd615218f",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/.github": {
+      "head_oid": "3623b7c0901a0bf9a9f447e34a655d505178abbe",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/audit": {
+      "head_oid": "aca401a96e83e6022f5257499f08487ed2d3692d",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/market-query": {
+      "head_oid": "4b207c6f43d68b9d53166e4a7f60a6caad5e98bb",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/market-ingest": {
+      "head_oid": "f31a42a2b9a82811b077c6da4dcc85203823a6cd",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/knowledge-base": {
+      "head_oid": "d9c295dcc83503a072dd16e49a80c778113d48ca",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "agentic-trade-solutions/dev-stack": {
+      "head_oid": "5f2eddf6c7fa158f308381ef335d2d8ff9051f92",
+      "my_commits": 0,
+      "additions": 0,
+      "deletions": 0
     }
   }
 }
