@@ -47,7 +47,7 @@
     <tspan x="360" y="36" class="key">ashfromsky@github</tspan><tspan class="cc"> -----------------------------------------------------------------</tspan>
 
     <tspan x="360" y="70" class="key">. OS: </tspan><tspan class="cc">......................... </tspan><tspan id="os_val" class="value">Arch Linux</tspan>
-    <tspan x="360" y="90" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 5 months, 16 days</tspan>
+    <tspan x="360" y="90" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 5 months, 17 days</tspan>
     <tspan x="360" y="110" class="key">. Host: </tspan><tspan class="cc">....................... </tspan><tspan id="host_val" class="value">Kyiv, Ukraine</tspan>
     <tspan x="360" y="130" class="key">. Kernel: </tspan><tspan class="cc">..................... </tspan><tspan id="kernel_val" class="value">Backend &amp; AI Systems Engineer</tspan>
     <tspan x="360" y="150" class="key">. IDE: </tspan><tspan class="cc">........................ </tspan><tspan id="ide_val" class="value">PyCharm, Antigravity, Codex, OpenCode</tspan>

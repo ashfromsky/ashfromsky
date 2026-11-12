@@ -31,7 +31,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "310b553b762a35dabdf3976781b9463ebaf26962",
+      "head_oid": "e521671fc600670abc847f57fabff53a803cd111",
       "my_commits": 45,
       "additions": 6988,
       "deletions": 4777
@@ -745,7 +745,7 @@
       "deletions": 0
     },
     "agentic-trade-solutions/event-contracts": {
-      "head_oid": "f989fa819e30791d6d362ee9bd406ac7ee804d23",
+      "head_oid": "817cabbdaa076888340daffb55d775b9d2f61560",
       "my_commits": 1,
       "additions": 55,
       "deletions": 50
@@ -781,7 +781,7 @@
       "deletions": 35
     },
     "agentic-trade-solutions/backtest": {
-      "head_oid": "943bc6e74244edf324b4751109066215a8fb57bb",
+      "head_oid": "c1d259dc0baf9c664793ad9de00ef53ee264852c",
       "my_commits": 0,
       "additions": 0,
       "deletions": 0
@@ -847,13 +847,13 @@
       "deletions": 0
     },
     "agentic-trade-solutions/knowledge-base": {
-      "head_oid": "32902e3b73f45e8d5e8636d7ebc32a010da1e0d3",
+      "head_oid": "73162c64dea347f2f0690d24391ed761ccfa4f60",
       "my_commits": 0,
       "additions": 0,
       "deletions": 0
     },
     "agentic-trade-solutions/dev-stack": {
-      "head_oid": "6136e5a0b2b3a26f2b461e0a2b205700db9016d6",
+      "head_oid": "02ee52329e8437b04e8593031aa61789f84d2131",
       "my_commits": 1,
       "additions": 5,
       "deletions": 0
