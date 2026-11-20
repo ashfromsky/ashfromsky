@@ -47,7 +47,7 @@
     <tspan x="360" y="36" class="key">ashfromsky@github</tspan><tspan class="cc"> -----------------------------------------------------------------</tspan>
 
     <tspan x="360" y="70" class="key">. OS: </tspan><tspan class="cc">......................... </tspan><tspan id="os_val" class="value">Arch Linux</tspan>
-    <tspan x="360" y="90" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 5 months, 24 days</tspan>
+    <tspan x="360" y="90" class="key">. Uptime: </tspan><tspan id="account_age_dots" class="cc">..................... </tspan><tspan id="account_age" class="value">18 years, 5 months, 25 days</tspan>
     <tspan x="360" y="110" class="key">. Host: </tspan><tspan class="cc">....................... </tspan><tspan id="host_val" class="value">Kyiv, Ukraine</tspan>
     <tspan x="360" y="130" class="key">. Kernel: </tspan><tspan class="cc">..................... </tspan><tspan id="kernel_val" class="value">Backend &amp; AI Systems Engineer</tspan>
     <tspan x="360" y="150" class="key">. IDE: </tspan><tspan class="cc">........................ </tspan><tspan id="ide_val" class="value">PyCharm, Antigravity, Codex, OpenCode</tspan>
@@ -70,7 +70,7 @@
     <tspan x="360" y="478" class="key">. Projects[3]: </tspan><tspan class="cc">................ </tspan><tspan id="proj4_val" class="value">YaraDB — In-Memory Document Database     ★ 37  ⑂ 0</tspan>
     <tspan x="360" y="498" class="key">. Projects[4]: </tspan><tspan class="cc">................ </tspan><tspan id="proj5_val" class="value">Helix — AI-Powered API Mocking           ★ 25  ⑂ 2</tspan>
 
-    <tspan x="360" y="532" class="key">. Education: </tspan><tspan class="cc">.................. </tspan><tspan id="education_val" class="value">Kyiv Polytechnic Institute (FIOT),</tspan>
+    <tspan x="360" y="532" class="key">. Education: </tspan><tspan class="cc">.................. </tspan><tspan id="education_val" class="value">Kyiv Polytechnic Institute (FICE),</tspan>
     <tspan x="360" y="552" class="cc">                                </tspan><tspan id="education_val2" class="value">Computer Engineering, 2026–2030</tspan>
     <tspan x="360" y="572" class="key">. Hackathons: </tspan><tspan class="cc">................. </tspan><tspan id="hackathons_val" class="value">AMD Developer Hackathon, INT20H</tspan>
     <tspan x="360" y="592" class="key">. Languages: </tspan><tspan class="cc">.................. </tspan><tspan id="languages_val" class="value">English B2+, German B2, Ukrainian/Russian native</tspan>
@@ -83,7 +83,7 @@
 
     <tspan x="360" y="740" class="key">- GitHub Stats </tspan><tspan class="cc">--------------------------------------------------------------------</tspan>
     <tspan x="360" y="760" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">113</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">125</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">172</tspan>
-    <tspan x="360" y="780" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,696</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">24</tspan>
-    <tspan x="360" y="800" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">2,096,652</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">2,397,706++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">301,054--</tspan><tspan class="text"> )</tspan>
+    <tspan x="360" y="780" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,705</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">24</tspan>
+    <tspan x="360" y="800" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">2,117,931</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">2,431,816++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">313,885--</tspan><tspan class="text"> )</tspan>
   </text>
 </svg>
