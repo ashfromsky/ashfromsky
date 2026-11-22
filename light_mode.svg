@@ -72,7 +72,7 @@
 
     <tspan x="360" y="532" class="key">. Education: </tspan><tspan class="cc">.................. </tspan><tspan id="education_val" class="value">Kyiv Polytechnic Institute (FICE),</tspan>
     <tspan x="360" y="552" class="cc">                                </tspan><tspan id="education_val2" class="value">Computer Engineering, 2026–2030</tspan>
-    <tspan x="360" y="572" class="key">. Hackathons: </tspan><tspan class="cc">................. </tspan><tspan id="hackathons_val" class="value">AMD Developer Hackathon, INT20H</tspan>
+    <tspan x="360" y="572" class="key">. Hackathons: </tspan><tspan class="cc">................. </tspan><tspan id="hackathons_val" class="value">AMD Developer Hackathon, NASA Space Apps 2026, INT20H</tspan>
     <tspan x="360" y="592" class="key">. Languages: </tspan><tspan class="cc">.................. </tspan><tspan id="languages_val" class="value">English B2+, German B2, Ukrainian/Russian native</tspan>
     <tspan x="360" y="612" class="key">. Interests: </tspan><tspan class="cc">.................. </tspan><tspan id="interests_val" class="value">Alpine Skiing, Music, PC Hardware</tspan>
 
@@ -83,7 +83,7 @@
 
     <tspan x="360" y="740" class="key">- GitHub Stats </tspan><tspan class="cc">--------------------------------------------------------------------</tspan>
     <tspan x="360" y="760" class="key">. Repos: </tspan><tspan id="repo_data_dots" class="cc">....... </tspan><tspan id="repo_data" class="value">113</tspan><tspan class="key"> {Contributed: </tspan><tspan id="contrib_data" class="value">126</tspan><tspan class="key">} | Stars: </tspan><tspan id="star_data_dots" class="cc">....... </tspan><tspan id="star_data" class="value">172</tspan>
-    <tspan x="360" y="780" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,764</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">24</tspan>
-    <tspan x="360" y="800" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">2,176,046</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">2,506,535++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">330,489--</tspan><tspan class="text"> )</tspan>
+    <tspan x="360" y="780" class="key">. Commits: </tspan><tspan id="commit_data_dots" class="cc">............. </tspan><tspan id="commit_data" class="value">1,765</tspan><tspan class="key"> | Followers: </tspan><tspan id="follower_data_dots" class="cc">........ </tspan><tspan id="follower_data" class="value">24</tspan>
+    <tspan x="360" y="800" class="key">. Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" class="cc">. </tspan><tspan id="loc_data" class="value">2,176,047</tspan><tspan class="text"> ( </tspan><tspan id="loc_add" class="add">2,506,536++</tspan><tspan class="text">, </tspan><tspan id="loc_del" class="del">330,489--</tspan><tspan class="text"> )</tspan>
   </text>
 </svg>
