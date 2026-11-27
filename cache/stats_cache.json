@@ -31,7 +31,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "30013e364aa43cecdde027f8a20d597e6f16dc8e",
+      "head_oid": "1ace6ec55eb22639aa4f81f42f6b865c2e82905c",
       "my_commits": 48,
       "additions": 6993,
       "deletions": 4781
@@ -67,10 +67,10 @@
       "deletions": 1596
     },
     "ashfromsky/acquiremock": {
-      "head_oid": "26f47bc68f7b6079fe424c21982533f018320c4c",
-      "my_commits": 37,
-      "additions": 9796,
-      "deletions": 2926
+      "head_oid": "b348917bdc2f4941945b4983ad54dc0374b0cee7",
+      "my_commits": 44,
+      "additions": 11900,
+      "deletions": 3308
     },
     "ashfromsky/helix": {
       "head_oid": "581dfd8d8351acf606a423a27cf1d2233f301944",
@@ -685,10 +685,10 @@
       "deletions": 0
     },
     "ashfromsky/yappin": {
-      "head_oid": "1ea60689f437f12e6ee7eb2ce755ffd512f9d2bd",
-      "my_commits": 149,
-      "additions": 385479,
-      "deletions": 67909
+      "head_oid": "36b8c83720c4a79ddfed00638d1d2d249e1e18fc",
+      "my_commits": 152,
+      "additions": 389488,
+      "deletions": 68438
     },
     "ashfromsky/project-deepstrike": {
       "head_oid": "28f60abb59a8359e8c0bb9ebefef35d0df8befb6",
