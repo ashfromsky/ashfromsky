@@ -31,7 +31,7 @@
       "deletions": 1
     },
     "ashfromsky/ashfromsky": {
-      "head_oid": "1ace6ec55eb22639aa4f81f42f6b865c2e82905c",
+      "head_oid": "a91681af45f456267e9d3468c420924661c30c5c",
       "my_commits": 48,
       "additions": 6993,
       "deletions": 4781
@@ -67,10 +67,10 @@
       "deletions": 1596
     },
     "ashfromsky/acquiremock": {
-      "head_oid": "b348917bdc2f4941945b4983ad54dc0374b0cee7",
-      "my_commits": 44,
-      "additions": 11900,
-      "deletions": 3308
+      "head_oid": "583df81eb0817dd42965cf4993a9ebab3500bf77",
+      "my_commits": 76,
+      "additions": 51309,
+      "deletions": 12381
     },
     "ashfromsky/helix": {
       "head_oid": "581dfd8d8351acf606a423a27cf1d2233f301944",
